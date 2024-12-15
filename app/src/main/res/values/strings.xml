@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">game_info</string>
+    <string name="hello_games_text">Hello Games</string>
+    <string name="game_info_text">Game Info</string>
+    <string name="nameLabel">Name:</string>
+    <string name="typeLabel">Type:</string>
+    <string name="nbPlayersLabel">Nb Players:</string>
+    <string name="yearLabel">Year:</string>
+    <string name="knowMoreButton">DO YOU WANT TO KNOW MORE?</string>
+</resources>
